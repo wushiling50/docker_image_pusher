@@ -1,6 +1,20 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+redis:bookworm
+mysql:9.0.1
+quay.io/coreos/etcd:v3.5.5
+evildecay/etcdkeeper
+zookeeper:latest
+wurstmeister/kafka:latest
+provectuslabs/kafka-ui:latest
+elasticsearch:8.17.1
+kibana:8.17.1
+elastic/filebeat:8.17.1
+public.ecr.aws/zinclabs/openobserve:v0.15.0-rc1
+jaegertracing/all-in-one:latest
+prom/prometheus
+grafana/grafana
+prom/alertmanager
+quay.io/prometheus/node-exporter
+zcube/cadvisor:latest
+oliver006/redis_exporter
+prom/mysqld-exporter
+hibiken/asynqmon:latest
