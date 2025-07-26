@@ -18,3 +18,5 @@ zcube/cadvisor:latest
 oliver006/redis_exporter
 prom/mysqld-exporter
 hibiken/asynqmon:latest
+golang:1.23
+alpine:latest
