@@ -24,3 +24,4 @@ nginx:alpine
 rustfs/rustfs:latest
 livekit/livekit-server:latest
 livekit/egress:latest
+golang:alpine
