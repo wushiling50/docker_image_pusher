@@ -20,3 +20,7 @@ prom/mysqld-exporter
 hibiken/asynqmon:latest
 golang:1.23
 alpine:latest
+nginx:alpine
+rustfs/rustfs:latest
+livekit/livekit-server:latest
+livekit/egress:latest
