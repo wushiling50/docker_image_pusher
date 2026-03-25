@@ -25,3 +25,4 @@ rustfs/rustfs:latest
 livekit/livekit-server:latest
 livekit/egress:latest
 golang:1.26-alpine
+registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-cpu-0.4.7
